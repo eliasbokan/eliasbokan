@@ -23,6 +23,39 @@ Key outcomes include:
 
 This project highlights both the **theoretical understanding** and **practical application** of unsupervised learning methods in Python.
 
+# 🧠 COVID-19 Global Trends Analysis
+
+This project presents a detailed **data-driven analysis** of the global COVID-19 pandemic, using CSV datasets to explore patterns in confirmed cases, deaths, recoveries, and vaccination rates. Through visualizations and statistical insights, the project highlights how public health interventions and vaccination campaigns influenced the pandemic trajectory.
+
+## 🌍 Key Findings
+
+### 3.1 Global Trends
+- Confirmed cases, deaths, and recoveries followed an **upward trend** with clear spikes during infection waves.  
+- **Vaccination campaigns** and health measures led to a **gradual decline** in new cases and deaths over time.
+
+### 3.2 Most Affected Countries
+- Countries with **high population density** and **international travel hubs** experienced faster case growth.  
+- **Strong healthcare systems** and **early interventions** helped maintain lower mortality rates.
+
+### 3.3 Mortality Rate Analysis
+- Mortality rates **varied significantly** due to differences in healthcare capacity.  
+- **Lockdowns, testing,** and **medical support** were key to reducing death rates.
+
+### 3.4 Daily New Cases Trend
+- Trends show **multiple waves** triggered by new variants, seasons, and policy changes.  
+- Decline in cases aligns with **vaccination efforts** and **public compliance** with safety measures.
+
+## 📊 Features & Visualizations
+- Time-series plots of cases, deaths, and recoveries  
+- Comparative analysis by country and continent  
+- Mortality and recovery rate trends  
+- Correlation of vaccination progress with new case decline  
+- Interactive feature visualizations (using Matplotlib / Seaborn / Plotly)
+
+## ⚙️ Tools & Technologies
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- **Jupyter Notebook**
+- **CSV Datasets** (Johns Hopkins University, WHO, or other sources)
 
 ### 🔗 Connect with Me
 - **LinkedIn:** [Elias Bokan](https://www.linkedin.com/in/elias-bokan-70a02332a)
