@@ -5,7 +5,7 @@
 📊 I enjoy exploring data, finding meaningful insights, and building data-driven solutions.  
 🌱 I’m currently enhancing my skills in **Statistical Analysis**, **Power BI**, **Python (Pandas, NumPy, Matplotlib)**, and **SQL**.  
 💞️ I’m open to collaborating on projects related to **Data Analysis**, **Machine Learning**, or **Business Intelligence**.  
-📫 You can reach me at: **[workuelias65@gmail.com]**  
+📫 You can reach me at: **[bokanelias@gmail.com]**  
 😄 Pronouns: **Mr.**  
 ⚡ Fun fact: *I believe every dataset has a story — you just need to visualize it the right way.*
 
